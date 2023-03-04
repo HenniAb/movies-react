@@ -1,4 +1,4 @@
-# Movies with react - TMDb API
+# Movies with React js- TMDb API
 
 
 
